@@ -1,0 +1,30 @@
+PGPASSWORD=<password> psql -h <hostname> -U <username> <databasename>
+postgresql://myrecipesnew_user:480aKcBQEp1KwR2pKmD8uc3ohgsUozX8@	dpg-ctng0u5ds78s73c4equg-a.oregon-postgres.render.com/myrecipesnew
+
+postgresql://myrecipesnew_user:480aKcBQEp1KwR2pKmD8uc3ohgsUozX8@dpg-ctng0u5ds78s73c4equg-a.oregon-postgres.render.com/myrecipesnew
+
+postgresql://myrecipesnew_user:480aKcBQEp1KwR2pKmD8uc3ohgsUozX8@dpg-ctng0u5ds78s73c4equg-a/myrecipesnew
+
+postgresql://myrecipesnew_user:480aKcBQEp1KwR2pKmD8uc3ohgsUozX8@dpg-ctng0u5ds78s73c4equg-a.oregon-postgres.render.com/myrecipesnew
+
+
+postgresql://myrecipesnew_user:480aKcBQEp1KwR2pKmD8uc3ohgsUozX8@dpg-ctng0u5ds78s73c4equg-a.oregon-postgres.render.com/myrecipesnew
+
+render psql dpg-ctng0u5ds78s73c4equg-a
+
+postgresql://myrecipesnew_user:480aKcBQEp1KwR2pKmD8uc3ohgsUozX8@dpg-ctng0u5ds78s73c4equg-a.oregon-postgres.render.com/myrecipesnew
+
+render psql dpg-ctng0u5ds78s73c4equg-a
+
+hostname: 
+dpg-ctng0u5ds78s73c4equg-a.oregon-postgres.render.com
+
+
+db: 
+myrecipesnew
+
+user:
+myrecipesnew_user
+
+Parool:
+480aKcBQEp1KwR2pKmD8uc3ohgsUozX8
